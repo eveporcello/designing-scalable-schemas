@@ -1,13 +1,12 @@
 <p align="center">
 <img src="https://i.imgur.com/migo24P.png" width="100" alt="moon highway logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" width="100" alt="graphql logo"/>
-<img src="https://img.stackshare.io/service/5508/CyUH653y.png" width="100" alt="apollo graphql logo"/>
 </p>
 
 # Designing Scalable Schemas
 
 
-## Instructor Info
+## Presenter Info
 
 - **Eve Porcello**: [Twitter](https://twitter.com/eveporcello) | [Email](mailto:eve@moonhighway.com)
 - **Moon Highway Training**: [Moon Highway Website](https://www.moonhighway.com) | [Mailing List](http://bit.ly/moonhighway) | [Articles](https://www.moonhighway.com/articles)
